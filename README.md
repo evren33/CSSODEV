@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -31,6 +30,7 @@
                 </header>
             </td>
         </tr>
+        
         <tr>
             <th>
                 <div>
@@ -68,6 +68,7 @@
                     </table>
                 </div>
             </th>
+            
             <td>
                 <div>
                     <table width="75%">
@@ -75,7 +76,7 @@
                             <td>
                                 <table class="picture">
                                     <tr>
-                                        <td> <img src="macbookpro.jpg" alt="tour" width="225px"> </td>
+                                        <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
                                         <td class="pic2"> Space Tour </td>
@@ -93,7 +94,7 @@
                             <td>
                                 <table class="picture">
                                     <tr>
-                                        <td> <img src="macbookpro.jpg" alt="tour" width="225px"> </td>
+                                        <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
                                         <td class="pic2"> Macbook </td>
@@ -111,7 +112,7 @@
                             <td>
                                 <table class="picture">
                                     <tr>
-                                        <td> <img src="macbookpro.jpg" alt="tour" width="225px"> </td>
+                                        <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
                                         <td class="pic2"> Macbook </td>
@@ -131,7 +132,7 @@
                             <td>
                                 <table class="picture">
                                     <tr>
-                                        <td> <img src="macbookpro.jpg" alt="tour" width="225px"> </td>
+                                        <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
                                         <td class="pic2"> Macbook</td>
@@ -149,7 +150,7 @@
                             <td>
                                 <table class="picture">
                                     <tr>
-                                        <td> <img src="macbookpro.jpg" alt="tour" width="225px"> </td>
+                                        <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
                                         <td class="pic2"> Macbook </td>
@@ -167,7 +168,7 @@
                             <td>
                                 <table class="picture">
                                     <tr>
-                                        <td> <img src="macbookpro.jpg" alt="tour" width="225px"> </td>
+                                        <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
                                         <td class="pic2"> Macbook </td>
@@ -192,4 +193,3 @@
 </body>
 
 </html>
-© 2019 GitHub, Inc.
