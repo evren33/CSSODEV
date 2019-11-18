@@ -79,7 +79,7 @@
                                         <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
-                                        <td class="pic2"> Space Tour </td>
+                                        <td class="pic2"> macbook </td>
                                     </tr>
                                     <tr>
                                         <td> i7 13' </td>
@@ -97,7 +97,7 @@
                                         <td> <img src="macbookpro.jpg" alt="tour" width="175px"> </td>
                                     </tr>
                                     <tr>
-                                        <td class="pic2"> Macbook </td>
+                                        <td class="pic2"> Mac book </td>
                                     </tr>
                                     <tr>
                                         <td> i5 15' </td>
